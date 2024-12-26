@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.1.1 (64-bit)
+# SW Build 5094488 on Fri Jun 14 08:59:21 MDT 2024
+# IP Build 5091682 on Fri Jun 14 16:55:04 MDT 2024
+# SharedData Build 5094118 on Fri Jun 14 01:09:43 MDT 2024
+# Start of session at: Wed Dec 25 18:00:03 2024
+# Process ID: 20256
+# Current directory: C:/Users/Kailan/Documents/Vivado Projects/Binary Bit Shift Project/Binary Bit Shift Project.runs/impl_1
+# Command line: vivado.exe -log Bitshift.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source Bitshift.tcl -notrace
+# Log file: C:/Users/Kailan/Documents/Vivado Projects/Binary Bit Shift Project/Binary Bit Shift Project.runs/impl_1/Bitshift.vdi
+# Journal file: C:/Users/Kailan/Documents/Vivado Projects/Binary Bit Shift Project/Binary Bit Shift Project.runs/impl_1\vivado.jou
+# Running On        :LAPTOP-NL3C8VQJ
+# Platform          :Windows Server 2016 or Windows 10
+# Operating System  :19045
+# Processor Detail  :Intel(R) Core(TM) i7-9750H CPU @ 2.60GHz
+# CPU Frequency     :2592 MHz
+# CPU Physical cores:6
+# CPU Logical cores :12
+# Host memory       :17053 MB
+# Swap memory       :9375 MB
+# Total Virtual     :26428 MB
+# Available Virtual :12803 MB
+#-----------------------------------------------------------
+source Bitshift.tcl -notrace
